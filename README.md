@@ -3,11 +3,11 @@ April 26th Programming Activity
 
 Setup
 
-1.Copy project into XAMPP's htdocs folder.
+1. Copy project into XAMPP's htdocs folder.
 
-2.Start Apache server.
+2. Start Apache server.
 
-3.Access API at http://localhost/my_api_gateway/.
+3. Access API at http://localhost/my_api_gateway/.
 
 API Keys
 
